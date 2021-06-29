@@ -1236,6 +1236,12 @@ h1.title1 {
   padding: 150px 0 90px;
   position: relative;
 }
+
+#contact.page-title-area {
+  background: rgba(0, 0, 0, 0) url("img/bg_contact.jpg") repeat scroll 0 0 / cover ;
+  padding: 150px 0 90px;
+  position: relative;
+}
 .back-home {
   bottom: -80px;
   float: right;
@@ -1257,6 +1263,15 @@ h1.title1 {
   margin-bottom: 0;
   text-transform: uppercase;
 }
+
+#contact .page-title h1 {
+  color: #0AAAA0;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
 .breadcrumbs > li {
 	display: inline-block;
 }
