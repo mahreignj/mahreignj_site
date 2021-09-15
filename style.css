@@ -11,27 +11,27 @@
     
   CSS INDEX
   ===================
-	
-	1. Theme default CSS
-	2. Header CSS
-	3. Slider CSS
-	4. Our couses area CSS
-	5. Help us area CSS
-	6. Our-gallery CSS
-	7. Countdown area CSS
-	8. Our volunteers area CSS
-	9. People says area CSS
-	10. Blog area CSS
-	11. Brand logo CSS
-	12. footer top CSS
-	13. About us CSS
-	14. Blog CSS
-	15. Contact CSS
-	16. Couses page CSS
-	17. Up comming events CSS
-	18. Error page area CSS
-	19. Blog details CSS
-	20. Blog details sidebar right CSS
+  
+  1. Theme default CSS
+  2. Header CSS
+  3. Slider CSS
+  4. Our couses area CSS
+  5. Help us area CSS
+  6. Our-gallery CSS
+  7. Countdown area CSS
+  8. Our volunteers area CSS
+  9. People says area CSS
+  10. Blog area CSS
+  11. Brand logo CSS
+  12. footer top CSS
+  13. About us CSS
+  14. Blog CSS
+  15. Contact CSS
+  16. Couses page CSS
+  17. Up comming events CSS
+  18. Error page area CSS
+  19. Blog details CSS
+  20. Blog details sidebar right CSS
     
 -----------------------------------------------------------------------------------*/
 
@@ -604,6 +604,9 @@ h1.title1 {
   margin-bottom: 11px;
   text-transform: uppercase;
 }
+.section-title h2 {
+  color: #CF9A4E;
+}
 .section-title h2 span {
   color: #0aaaa0;
 }
@@ -758,7 +761,7 @@ h1.title1 {
 /*  7. Countdown area CSS
 /*----------------------------------------*/
 .countdown-area {
-  background: rgba(0, 0, 0, 0) url("img/avenir.png") repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) url("img/fontsize.png") repeat scroll 0 0;
 }
 .countdown-side-area {
   margin-top: 35px;
@@ -1273,12 +1276,12 @@ h1.title1 {
 }
 
 .breadcrumbs > li {
-	display: inline-block;
+  display: inline-block;
 }
 .breadcrumbs > li + li::before {
-	padding: 0 5px;
-	color: #ccc;
-	content: "/\00a0";
+  padding: 0 5px;
+  color: #ccc;
+  content: "/\00a0";
 }
 .breadcrumbs a {
   color: #fff;
@@ -1982,185 +1985,185 @@ line-height: 36px;}
     26. Donate Page CSS
 ----------------------------*/
 .donate-content {
-	box-shadow: 2px 2px 11px 0 rgba(0,0,0,.1);
-	padding: 40px;
-	margin-bottom: 25px;
-	background: #fff;
-	border: 1px solid rgba(0,0,0,.125);
+  box-shadow: 2px 2px 11px 0 rgba(0,0,0,.1);
+  padding: 40px;
+  margin-bottom: 25px;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.125);
 }
 .donate-form-container{
-	padding: 30px;
-	background: #fff;
-	width: 100%;
+  padding: 30px;
+  background: #fff;
+  width: 100%;
 }
 .donation-form.quick-donation-section.donate-page {
-	margin: 20px 0;
+  margin: 20px 0;
     margin-bottom: 0;
 }
 .donate-form-title h3 {
-	font-size: 26px;
-	line-height: 30px;
-	font-weight: 700;
+  font-size: 26px;
+  line-height: 30px;
+  font-weight: 700;
 }
 .donation-form.quick-donation-section p {
-	font-size: 15px;
-	font-weight: 600;
-	display: block;
-	margin-bottom: 25px;
+  font-size: 15px;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 25px;
     text-align: left;
     width: 100%;
 }
 .donation-form.quick-donation-section.donate-page form {
-	display: block;
-	overflow: hidden;
-	text-align: left;
+  display: block;
+  overflow: hidden;
+  text-align: left;
 }
 .donate-amount {
-	overflow: hidden;
-	margin-bottom: 30px;
+  overflow: hidden;
+  margin-bottom: 30px;
 }
 .donation-form.quick-donation-section.donate-page form .donate-list {
-	float: left;
+  float: left;
 }
 .donation-form.quick-donation-section.donate-page form input[type="radio"] + label {
-	text-align: center;
+  text-align: center;
 }
 .enter-amount {
-	float: right;
+  float: right;
 }
 .donation-form.quick-donation-section.donate-page .donate-btn {
-	text-align: left;
+  text-align: left;
 }
 
 .single-input label {
-	color: #222;
-	font-weight: 400;
-	font-size: 14px;
-	margin-bottom: 10px;
+  color: #222;
+  font-weight: 400;
+  font-size: 14px;
+  margin-bottom: 10px;
 }
 .single-input input,
 .single-input textarea {
-	width: 100%;
-	border: 1px solid #f5f5f5;
-	background: #f5f5f5;
-	color: #222;
-	resize: none;
+  width: 100%;
+  border: 1px solid #f5f5f5;
+  background: #f5f5f5;
+  color: #222;
+  resize: none;
 }
 .single-input input {
   padding: 0 10px;
   height: 55px;
 }
 .single-input textarea {
-	max-width: 100%;
-	min-height: 190px;
-	padding: 15px 17px 5px 19px;
+  max-width: 100%;
+  min-height: 190px;
+  padding: 15px 17px 5px 19px;
 }
 
 
 /*Donet Form CSS*/
 .quick-donation-section {
-	background-color: #fff;
-	text-align: center;
-	text-transform: capitalize;
-	margin-bottom: 50px;
-	margin-top: 40px;
+  background-color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 50px;
+  margin-top: 40px;
 }
 .quick-donation-section .form {
-	position: relative;
-	display: flex;
-	align-items: center;
+  position: relative;
+  display: flex;
+  align-items: center;
 }
 .donate-list {
-	overflow: hidden;
+  overflow: hidden;
 }
 .donate-list .box {
-	width: 155px;
-	margin-right: 15px;
-	height: 50px;
-	line-height: 45px;
-	float: left;
-	background: #fff;
+  width: 155px;
+  margin-right: 15px;
+  height: 50px;
+  line-height: 45px;
+  float: left;
+  background: #fff;
     border: 2px solid #0AAAA0;
-	-webkit-transition: all 0.2s;
-	-moz-transition: all 0.2s;
-	-o-transition: all 0.2s;
-	-ms-transition: all 0.2s;
-	transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
 }
 .quick-donation-section input[type="radio"] {
-	display: none;
+  display: none;
 }
 .quick-donation-section input[type="radio"] + label {
-	font-size: 16px;
-	color: #252525;
-	margin-left: 15px;
+  font-size: 16px;
+  color: #252525;
+  margin-left: 15px;
 }
 .quick-donation-section .donate-list label {
-	width: 100%;
-	cursor: pointer;
+  width: 100%;
+  cursor: pointer;
 }
 .quick-donation-section .donate-list label .check-icon {
-	width: 22px;
-	height: 22px;
-	position: relative;
-	z-index: 10;
+  width: 22px;
+  height: 22px;
+  position: relative;
+  z-index: 10;
 }
 .quick-donation-section .donate-list label .check-icon::before {
-	content: "";
-	background: #252525;
-	width: 22px;
-	height: 22px;
-	position: absolute;
-	left: -40px;
-	top: 2px;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	-o-border-radius: 50%;
-	-ms-border-radius: 50%;
-	border-radius: 50%;
-	z-index: -1;
-	-webkit-transition: all 0.2s;
-	-moz-transition: all 0.2s;
-	-o-transition: all 0.2s;
-	-ms-transition: all 0.2s;
-	transition: all 0.2s;
+  content: "";
+  background: #252525;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: -40px;
+  top: 2px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  z-index: -1;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
 }
 .quick-donation-section input[type="radio"]:checked + label .check-icon::before {
-	background: #123a54;
+  background: #123a54;
 }
 .quick-donation-section input[type="radio"] + label .check-icon::after {
-	content: "";
-	width: 18px;
-	height: 14px;
-	background: url(img/icon/checkbox-check.png) -18px top no-repeat cursor: pointer;
-	position: absolute;
-	left: -39px;
-	top: 5px;
+  content: "";
+  width: 18px;
+  height: 14px;
+  background: url(img/icon/checkbox-check.png) -18px top no-repeat cursor: pointer;
+  position: absolute;
+  left: -39px;
+  top: 5px;
 }
 .quick-donation-section input[type="radio"]:checked + label .check-icon::after {
-	content: "";
-	background: url(img/icon/checkbox-check.png) left top no-repeat;
+  content: "";
+  background: url(img/icon/checkbox-check.png) left top no-repeat;
 }
 .quick-donation-section .enter-amount {
-	background-color: #123a54;
-	width: 155px;
-	height: 50px;
-	line-height: 50px;
-	margin-right: 15px;
-	-webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	-o-transition: all 0.3s;
-	-ms-transition: all 0.3s;
-	transition: all 0.3s;
+  background-color: #123a54;
+  width: 155px;
+  height: 50px;
+  line-height: 50px;
+  margin-right: 15px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
 }
 .quick-donation-section .enter-amount input {
-	background-color: #fff;
-	width: 100%;
-	height: 100%;
-	font-size: 14px;
-	font-weight: 600;
-	color: #252525;
-	padding: 10px 15px;
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+  font-weight: 600;
+  color: #252525;
+  padding: 10px 15px;
     height: 50px;
     border: 2px solid #0AAAA0;
 }
@@ -2172,30 +2175,30 @@ line-height: 36px;}
     text-align: right;
 }
 .quick-donation-section .donate-btn button {
-	background-color: #0AAAA0;
-	height: 50px;
-	line-height: 50px;
-	font-size: 16px;
-	font-weight: 600;
-	color: #fff;
-	text-align: center;
-	padding: 0 40px;
-	border: 0;
+  background-color: #0AAAA0;
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  padding: 0 40px;
+  border: 0;
     cursor: pointer;
-	display: inline-block;
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	-o-border-radius: 0;
-	-ms-border-radius: 0;
-	border-radius: 0;
-	position: relative;
-	overflow: hidden;
-	text-transform: uppercase;
-	-webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	-o-transition: all 0.3s;
-	-ms-transition: all 0.3s;
-	transition: all 0.3s;
+  display: inline-block;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -o-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+  position: relative;
+  overflow: hidden;
+  text-transform: uppercase;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
 }
 .quick-donation-section .donate-btn button:hover{
     background: #333;
@@ -2424,5 +2427,5 @@ line-height: 36px;}
 }
 
 .mtb-20 {
-	margin: 20px 0;
+  margin: 20px 0;
 }
