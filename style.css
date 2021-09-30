@@ -664,7 +664,7 @@ h1.title1 {
 /*  5. Help us area CSS
 /*----------------------------------------*/
 .help-us-area {
-  background: rgba(0, 0, 0, 0) url("img/imghelp-us-bg.png") repeat fixed 0 0;
+  background: rgba(0, 0, 0, 0) url("img/helphand.jpg") repeat fixed 50% 35%;
   color: #fff;
 }
 .section-title-style-two.text-center {
@@ -761,7 +761,7 @@ h1.title1 {
 /*  7. Countdown area CSS
 /*----------------------------------------*/
 .countdown-area {
-  background: rgba(0, 0, 0, 0) url("img/fontsize.png") repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) url("img/hands1.jpg") repeat scroll 50% 50%;
 }
 .countdown-side-area {
   margin-top: 35px;
@@ -786,7 +786,7 @@ h1.title1 {
   margin-bottom: 7px;
 }
 .countdown-text > p {
-  color: #ffffff;
+  color: #ffffff
   font-size: 18px;
 }
 
@@ -1200,7 +1200,7 @@ h1.title1 {
 /* home animated css */
 
 .slider-animate-area {
-  background: rgba(0, 0, 0, 0) url("img/monde1.gif") repeat fixed 0 0;
+  background: rgba(0, 0, 0, 0) url("img/mondehd.gif") repeat fixed 0 0;
   color: #fff;
 }
 
